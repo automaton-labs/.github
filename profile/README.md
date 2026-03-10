@@ -17,4 +17,4 @@ Skill.json is a simple standard for describing repositories of Skill files, for 
 
 ---
 
-Automaton Labs is a project of https://velvettiger.com.au
+Automaton Labs is a project of https://velvettiger.com.au / https://github.com/velvet-tiger

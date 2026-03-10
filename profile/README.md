@@ -1,5 +1,7 @@
 # Automaton Labs
 
+[https://tryautomatic.app](https://tryautomatic.app)
+
 Automaton Labs develops platforms and tools for working with agentic technology.
 
 ## Automatic
